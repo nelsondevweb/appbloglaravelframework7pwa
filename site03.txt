@@ -1,1 +1,0 @@
-https://github.com/VonHeikemen/prototipo-laravel-framework7
