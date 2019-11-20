@@ -1,0 +1,5 @@
+Build PWA Using Laravel Framework and framework7
+
+Langkah pertama adalah membuat project menggunakan  laravel installer dengan kode sebagai berikut
+
+$ laravel new appbloglaravelframework7pwa
